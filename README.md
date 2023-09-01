@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Actually I`m a .Net developer.
+
 🔭 I’m currently working on an digital transformation project.
+
 🌱 I’m currently learning about AngularJS and front-end development
